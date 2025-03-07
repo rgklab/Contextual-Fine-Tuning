@@ -1,0 +1,3 @@
+[submodule "vectorlm"]
+	path = vectorlm
+	url = https://github.com/VectorInstitute/vectorlm.git
