@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+__pycache__
+models.zip
+models
+downloaded
+**/state.pt
