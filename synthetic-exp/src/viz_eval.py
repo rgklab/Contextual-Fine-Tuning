@@ -18,7 +18,7 @@ def valid_row(r):
 
 
 sns.set_palette("deep") 
-run_dir = '/voyager/projects/younwoo/in-context-learning/models'
+run_dir = '/path-to-project-root/models'
 df = read_run_dir(run_dir)
 
 # task = "sumdot_2nn_regression"
