@@ -1,0 +1,44 @@
+config: conf/relu_2nn_regression_neg-cft.yaml
+inherit:
+- /path-to-project-root/src/conf/base.yaml
+model:
+  family: gpt2
+  n_dims: 20
+  n_embd: 256
+  n_head: 8
+  n_layer: 12
+  n_positions: 101
+out_dir: ../models/relu_2nn_regression/neg-cft
+test_run: false
+training:
+  batch_size: 64
+  curriculum:
+    dims:
+      end: 20
+      inc: 0
+      interval: 2000
+      start: 20
+    points:
+      end: 41
+      inc: 0
+      interval: 2000
+      start: 41
+  data: gaussian
+  keep_every_steps: 5000
+  learning_rate: 0.0001
+  method: neg-cft
+  num_tasks: null
+  num_training_examples: null
+  pretrained: /path-to-project-root/downloaded/models/linear_regression/pretrained
+  resume_id: neg-cft
+  save_every_steps: 5000
+  task: relu_2nn_regression
+  task_kwargs:
+    hidden_layer_size: 100
+  train_steps: 100000
+wandb:
+  entity: your-entity
+  log_every_steps: 100
+  name: relu_neg-cft
+  notes: ''
+  project: in-context-training
