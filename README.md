@@ -1,14 +1,12 @@
 # Teaching LLMs How to Learn with Contextual Fine-Tuning
 
-Younwoo Cho*, Muhammad Adil Asif\*, Ziwen Han, John Willes, Rahul Krishnan <br>
+*Younwoo Cho\*, Muhammad Adil Asif\*, Ziwen Han, John Willes, Rahul Krishnan* <br>
 Project Page: [https://younwoochoi.github.io/cft-iclr/](https://younwoochoi.github.io/cft-iclr/)
 
 <p align="center">
   <img src="assets/main_fig.png" width="600px">
   <br>
 </p>
-
-This repository contains the implementation of contextual fine-tuning for language models.
 
 ## Directory Structure
 
