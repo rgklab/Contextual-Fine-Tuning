@@ -4,7 +4,7 @@ Younwoo Cho*, Muhammad Adil Asif\*, Ziwen Han, John Willes, Rahul Krishnan <br>
 Project Page: [https://younwoochoi.github.io/cft-iclr/](https://younwoochoi.github.io/cft-iclr/)
 
 <p align="center">
-  <img src="assets/main_fig.png" width="100%">
+  <img src="assets/main_fig.png" width="600px">
   <br>
 </p>
 
