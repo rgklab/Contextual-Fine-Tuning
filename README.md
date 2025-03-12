@@ -25,7 +25,7 @@ For synthetic experiments and controlled evaluations, refer to the `synthetic-ex
 @inproceedings{
     choi2025teaching,
     title={Teaching {LLM}s How To Learn with Contextual Fine-Tuning},
-    author={Younwoo Choi and Muhammad Adil Asif and Ziwen Han and John Willes and Rahul Krishnan},
+    author={Younwoo Choi and Muhammad Adil Asif and Ziwen Han and John Willes and Rahul G. Krishnan},
     booktitle={The Thirteenth International Conference on Learning Representations},
     year={2025},
     url={https://openreview.net/forum?id=FS2nukC2jv}
