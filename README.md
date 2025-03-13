@@ -28,6 +28,6 @@ For synthetic experiments and controlled evaluations, refer to the `synthetic-ex
     author={Younwoo Choi and Muhammad Adil Asif and Ziwen Han and John Willes and Rahul G. Krishnan},
     booktitle={The Thirteenth International Conference on Learning Representations},
     year={2025},
-    url={https://openreview.net/forum?id=FS2nukC2jv}
+    url={https://arxiv.org/abs/2503.09032}
 }
 ```
