@@ -17,6 +17,8 @@ Project Page: [https://younwoochoi.github.io/cft-iclr/](https://younwoochoi.gith
 
 The main training pipeline is implemented in the `vectorlm` directory, which contains the core functionality for contextual fine-tuning.
 
+For experiments with Gemini-1.5-Flash, refer to the `gemini-exp` directory.
+
 For synthetic experiments and controlled evaluations, refer to the `synthetic-exp` directory.
 
 ## Citation
