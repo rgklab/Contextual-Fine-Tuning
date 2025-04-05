@@ -11,6 +11,7 @@ Project Page: [https://younwoochoi.github.io/cft-iclr/](https://younwoochoi.gith
 ## Directory Structure
 
 - `vectorlm/`: Main training scripts and core implementation
+- `gemini-exp/`: Gemini-1.5-Flash experiments
 - `synthetic-exp/`: Synthetic experiments and evaluations
 
 ## Usage
