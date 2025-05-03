@@ -1,6 +1,6 @@
 # Teaching LLMs How to Learn with Contextual Fine-Tuning
 
-*Younwoo Choi\*, Muhammad Adil Asif\*, Ziwen Han, John Willes, Rahul Krishnan* <br>
+*Younwoo Choi\*, Muhammad Adil Asif\*, Ziwen Han, John Willes, Rahul G. Krishnan* <br>
 Project Page: [https://younwoochoi.github.io/cft-iclr/](https://younwoochoi.github.io/cft-iclr/)
 
 <p align="center">
